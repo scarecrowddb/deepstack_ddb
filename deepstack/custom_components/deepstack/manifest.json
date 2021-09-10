@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@scarecrowddb"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://mapas-territory@dev.azure.com/mapas-territory/Daves%20Stuff/_git/homeassistant.deepstack",
+  "domain": "deepstack",
+  "iot_class": "assumed_state",
+  "name": "DeepStack",
+  "requirements": ["deepstack-sdk==0.2.1"],
+  "version": "1.0.0"
+}
